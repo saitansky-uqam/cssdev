@@ -1,0 +1,25 @@
+{
+  "name": "esg_gabarit",
+  "version": "1.0.0",
+  "description": "Styles pour les cours ESG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/uqam/esg_gabarit.git"
+  },
+  "keywords": [
+    "SASS",
+    "gulp",
+    "gulp-sass"
+  ],
+  "author": "UQAM",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/uqam/esg_gabarit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}

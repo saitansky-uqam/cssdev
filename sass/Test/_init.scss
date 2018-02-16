@@ -1,0 +1,13 @@
+
+/*
+* Les variables que ne sont pas partagées les mettre à ce niveau
+*/
+$ESG-containerWidth: 20%;
+
+#ESG-container {
+	width: $ESG-containerWidth;
+
+	.ESG-redBackground {
+		background-color: $ESG-red;
+	}
+}
